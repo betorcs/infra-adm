@@ -1,0 +1,20 @@
+{
+    "name": "roberto/infra-adm",
+    "description": "Habilita/Desabilita conta no cpanel",
+    "type": "project",
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "require": {
+        "phpunit/phpunit": "^7.5",
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "authors": [
+        {
+            "name": "Roberto Silva",
+            "email": "roberto.silva@arcasolutions.com"
+        }
+    ]
+}
